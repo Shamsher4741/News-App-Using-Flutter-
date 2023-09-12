@@ -1,4 +1,4 @@
-# News App Uising Flutter 
+# News App Using Flutter 
 
 A new Flutter Project Using Api
 
