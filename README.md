@@ -1,10 +1,10 @@
-# news_app
+# News App Uising Flutter 
 
-A new Flutter project.
+A new Flutter Project Using Api
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is Based on Flutter Api. in this Project i created a Api based flutter application in which i created News application.
 
 A few resources to get you started if this is your first Flutter project:
 
